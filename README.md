@@ -2,7 +2,7 @@
 
 Papers in various fields
 
-![Papers](./figures/Number of papers.png)
+![Papers](./figures/number_of_papers.png)
 
 ## 🎊Recent Updates🎊
 
