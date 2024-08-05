@@ -1,6 +1,6 @@
 # Papers📕
 
-Papers in various fields
+Papers in various fields.
 
 ![Papers](./figures/number_of_papers.png)
 
