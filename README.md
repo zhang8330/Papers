@@ -18,7 +18,9 @@ Papers in various fields.
 
 ### Test Oracle Generation
 
-- [方括号填写论文名称，小括号填写论文地址](填写论文地址)(这里填写会议/期刊 + 年份)
+- 
+
+- \[方括号填写论文名称，小括号填写论文地址\]\(填写论文地址\)(这里填写会议/期刊 + 年份)---最后把转义符号'\'删掉
 
 ### System Test Input Generation
 
